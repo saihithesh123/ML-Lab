@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
  
 
-data = pd.read_csv("D:\NOTES\8th sem\ML Lab\Finds.cvs")
+data = pd.read_csv("D:\NOTES\6th sem\ML Lab\Finds.cvs")
 print(data,"\n")
  
 #array of all the attributes
